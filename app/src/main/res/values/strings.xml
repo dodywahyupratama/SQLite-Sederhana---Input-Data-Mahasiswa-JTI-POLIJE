@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLite1</string>
+    <string-array name="daftar_jurusan">
+        <item>Teknik Komputer</item>
+        <item>Manajemen Informatika</item>
+        <item>Teknik Informatika</item>
+    </string-array>
+</resources>
